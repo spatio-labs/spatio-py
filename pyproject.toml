@@ -32,8 +32,8 @@ dependencies = [
 [project.urls]
 Homepage = "https://www.spatio.app/developers/docs/sdk"
 Documentation = "https://www.spatio.app/developers/docs"
-Repository = "https://github.com/spatio-labs/spatio"
-Issues = "https://github.com/spatio-labs/spatio/issues"
+Repository = "https://github.com/spatio-labs/spatio-py"
+Issues = "https://github.com/spatio-labs/spatio-py/issues"
 [tool.poetry]
 requires-poetry = ">=2.0"
 
