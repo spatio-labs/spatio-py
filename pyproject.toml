@@ -1,6 +1,6 @@
 [project]
 name = "spatio-sdk"
-version = "0.0.1"
+version = "0.0.2"
 description = "Python SDK for the SpatioAPI. Generated from the official OpenAPI spec."
 authors = [
   {name = "Spatio Support",email = "hello@spatio.app"},
